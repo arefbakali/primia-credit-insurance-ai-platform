@@ -1,0 +1,15 @@
+{
+  "model_name": "Linear Regression",
+  "mse": 4.7497895468916536e-05,
+  "uses_scaler": true,
+  "feature_columns": [
+    "facteur_risque",
+    "montant_credit",
+    "taux_interet",
+    "duree",
+    "secteur_score",
+    "sinistres_score",
+    "type_credit_score",
+    "etat_financier_score"
+  ]
+}

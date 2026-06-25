@@ -1,0 +1,20 @@
+{
+  "model_name": "Gradient Boosting",
+  "mse": 0.0027505946692438906,
+  "r2": 0.6653268843505533,
+  "mae": 0.04171518834521576,
+  "uses_scaler": false,
+  "feature_columns": [
+    "facteur_risque",
+    "montant_credit",
+    "taux_interet",
+    "duree",
+    "secteur_score",
+    "sinistres_score",
+    "type_credit_score",
+    "etat_financier_score"
+  ],
+  "n_samples": 19,
+  "n_train": 15,
+  "n_test": 4
+}

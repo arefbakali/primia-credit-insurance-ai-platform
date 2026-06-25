@@ -1,0 +1,5 @@
+# This directory stores the trained ML model files
+# Files in this directory:
+# - commission_model.joblib (trained Gradient Boosting model)
+# - model_metadata.json (model metadata and performance metrics)
+

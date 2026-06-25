@@ -1,0 +1,29 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "import:companies": "node scripts/importCompanyData.js",
+    "import:all": "node scripts/importAllData.js",
+    "import:csv": "node scripts/importAllCSVData.js",
+    "check:tables": "node scripts/setupAllTables.js",
+    "link:data": "node scripts/linkAllCompanyData.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.89.0",
+    "axios": "^1.13.2",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "form-data": "^4.0.5",
+    "multer": "^1.4.4",
+    "puppeteer": "^24.34.0"
+  }
+}

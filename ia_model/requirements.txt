@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+joblib
+flask
+requests
+beautifulsoup4
+google-generativeai
+supabase
+pypdf
+python-dotenv

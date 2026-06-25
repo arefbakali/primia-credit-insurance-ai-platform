@@ -1,0 +1,602 @@
+
+Identifiant du sinistre,Entreprise,Date du sinistre,Montant du sinistre,Type de sinistre,Secteur d’activité de l’entreprise,Taux de couverture,Franchise appliquée,État de la réclamation,Historique des sinistres passés,Durée de traitement,Coût estimé du sinistre à la fin de la période de règlement,Risque associé au sinistre
+S01001,Société de Placement et de Développement Industriel et Touristique,2021-04-11,87650.53,Dommage matériel,finance,0.82,1570.94,réglé,0,67,96832.12,moyen
+S01002,Carthage Cement,2023-04-09,2906460.05,Incendie,industrie,0.62,93923.73,en cours,2,116,3131581.41,élevé
+S01003,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2021-08-16,202931.45,Dégâts des eaux,industrie,0.68,6972.62,en cours,3,113,208703.33,élevé
+S01004,Euro Cycles,2021-11-14,13583.9,Vol,industrie,0.64,594.53,rejeté,2,56,0.0,élevé
+S01005,HANNIBAL LEASE SA,2021-07-05,2085528.97,Incendie,finance,0.84,35712.41,réglé,1,35,2175991.38,élevé
+S01006,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2018-09-14,3012176.06,Interruption d'activité,transport,0.62,116062.54,réglé,2,68,3071144.87,élevé
+S01007,Tunisie Profilés Aluminium -TPR-,2020-08-21,84063.77,Dommage matériel,industrie,0.66,3788.74,rejeté,2,30,0.0,élevé
+S01008,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2019-01-12,281922.02,Catastrophe naturelle,transport,0.68,11236.07,réglé,4,63,306351.75,élevé
+S01009,Compagnie d’assurances et de réassurances ASTREE,2023-12-07,33299.51,Bris de machine,finance,0.85,612.48,réglé,1,82,34556.75,faible
+S01010,Unimed,2023-07-10,155499.92,Dommage matériel,sante,0.78,3817.43,réglé,0,43,168191.11,moyen
+S01011,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2019-02-15,229000.57,Catastrophe naturelle,finance,0.85,3722.85,en cours,1,137,251477.54,moyen
+S01012,Compagnie d’assurances et de réassurances ASTREE,2020-11-23,65010.14,Dégâts des eaux,finance,0.85,1297.81,réglé,3,56,74748.86,moyen
+S01013,BNA Assurances,2020-01-28,27726.36,Dommage matériel,finance,0.81,606.61,rejeté,0,31,0.0,faible
+S01014,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2023-09-09,1597553.48,Interruption d'activité,industrie,0.63,55880.17,réglé,4,53,1827231.37,élevé
+S01015,ESSOUKNA,2018-08-18,275706.43,Catastrophe naturelle,construction,0.61,10106.71,réglé,1,91,288709.11,élevé
+S01016,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2024-05-15,27435.6,Autre,industrie,0.63,1083.9,réglé,5,76,27646.88,élevé
+S01017,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2019-04-13,1088419.23,Interruption d'activité,industrie,0.65,47176.12,réglé,2,69,1132541.56,élevé
+S01018,BNA Assurances,2024-09-20,59432.17,Vol,finance,0.8,1069.15,en cours,4,127,63522.51,moyen
+S01019,ESSOUKNA,2024-04-18,27744.0,Vol,construction,0.7,1131.28,réglé,1,54,27994.37,élevé
+S01020,DELICE HOLDING,2019-03-26,186610.32,Dégâts des eaux,industrie,0.64,6136.85,réglé,4,59,211463.08,élevé
+S01021,LES CIMENTS DE BIZERTE,2022-10-14,48986.87,Dommage matériel,industrie,0.7,2337.72,réglé,5,63,52075.54,élevé
+S01022,SMART TUNISIE.SA,2023-07-10,158340.41,Dommage matériel,technologie,0.78,5307.99,en cours,3,93,167331.4,moyen
+S01023,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2021-05-19,121202.15,Responsabilité civile,transport,0.69,4150.2,réglé,1,67,128156.98,élevé
+S01024,ALKIMIA,2022-08-12,96600.86,Dégâts des eaux,energie,0.6,4402.72,en cours,6,121,103774.44,élevé
+S01025,Compagnie d’assurances et de réassurances ASTREE,2018-06-03,49663.34,Autre,finance,0.83,887.26,réglé,1,62,55633.78,faible
+S01026,CELLCOM,2022-01-13,21597.46,Autre,technologie,0.76,724.0,réglé,0,68,23449.67,moyen
+S01027,Best Lease,2018-02-26,1145817.12,Interruption d'activité,finance,0.86,18888.44,réglé,0,66,1239276.58,élevé
+S01028,DELICE HOLDING,2020-08-27,947451.96,Incendie,industrie,0.7,31805.91,rejeté,1,28,0.0,élevé
+S01029,TUNISIE LEASING & FACTORING,2019-03-31,89122.21,Dégâts des eaux,finance,0.87,2015.23,réglé,1,78,98849.98,moyen
+S01030,Société de Placement et de Développement Industriel et Touristique,2022-11-15,35404.0,Dégâts des eaux,finance,0.83,806.0,réglé,0,77,38066.66,faible
+S01031,BH LEASING,2019-05-05,137088.88,Dommage matériel,finance,0.83,2397.0,rejeté,1,40,0.0,moyen
+S01032,Amen Bank,2020-06-22,106839.35,Responsabilité civile,finance,0.85,1900.59,réglé,0,54,116445.93,moyen
+S01033,SMART TUNISIE.SA,2024-02-29,82757.34,Autre,technologie,0.76,2611.8,en cours,5,127,89182.48,moyen
+S01034,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2022-02-20,44491.68,Autre,industrie,0.68,1865.02,réglé,2,81,46959.25,élevé
+S01035,Carthage Cement,2018-11-19,29159.96,Vol,industrie,0.67,1119.76,réglé,0,38,31627.91,élevé
+S01036,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2020-03-11,52067.87,Autre,technologie,0.72,1829.53,réglé,1,66,54776.59,moyen
+S01037,الجملة لأسواق التونسيـــّـــــة,2024-04-10,86264.08,Dégâts des eaux,commerce,0.73,2429.54,réglé,2,61,87525.74,moyen
+S01038,AIR LIQUIDE TUNISIE,2018-12-21,19880.35,Responsabilité civile,industrie,0.61,689.69,réglé,4,52,20882.66,élevé
+S01039,Best Lease,2024-09-01,50618.25,Dégâts des eaux,finance,0.84,1167.5,réglé,0,44,51224.93,moyen
+S01040,AIR LIQUIDE TUNISIE,2024-04-05,51002.38,Dégâts des eaux,industrie,0.66,1950.5,réglé,2,70,55740.96,élevé
+S01041,BH BANK,2022-10-04,3227079.87,Interruption d'activité,finance,0.88,59553.12,réglé,0,39,3697837.73,élevé
+S01042,Société Moderne de Céramique -SOMOCER-,2021-10-30,1236797.41,Incendie,industrie,0.69,58671.24,réglé,4,65,1281214.55,élevé
+S01043,DELICE HOLDING,2020-09-17,64864.27,Autre,industrie,0.67,2106.78,en cours,2,57,68609.56,élevé
+S01044,Les Industries Chimiques du Fluor,2024-02-09,60713.7,Dégâts des eaux,industrie,0.64,2492.09,réglé,5,42,66901.1,élevé
+S01045,SOCIETE D’ARTICLES HYGIENIQUES « SAH »,2018-01-09,338318.66,Catastrophe naturelle,industrie,0.6,15667.63,en cours,1,148,351802.91,élevé
+S01046,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2021-06-21,2722109.72,Incendie,industrie,0.61,97154.39,rejeté,4,40,0.0,élevé
+S01047,Les Industries Chimiques du Fluor,2019-10-30,31917.59,Dommage matériel,industrie,0.65,1345.13,réglé,2,49,34543.34,élevé
+S01048,SOCIETE TUNISIENNE DE BANQUE,2019-01-27,55184.61,Catastrophe naturelle,finance,0.82,966.36,en cours,1,115,59273.35,moyen
+S01049,Amen Bank,2019-03-06,34076.89,Dégâts des eaux,finance,0.86,629.14,réglé,1,65,38251.89,faible
+S01050,Carthage Cement,2022-08-25,135249.18,Responsabilité civile,industrie,0.66,4982.09,réglé,3,55,149988.61,élevé
+S01051,Société Tunisienne d’Email -SOTEMAIL-,2024-05-12,42170.83,Vol,industrie,0.64,1950.51,réglé,4,74,45037.19,élevé
+S01052,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2018-12-21,61116.71,Dégâts des eaux,finance,0.82,1386.4,réglé,2,53,66965.76,moyen
+S01053,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2023-06-09,27675.81,Autre,industrie,0.65,1117.61,réglé,1,78,28083.53,élevé
+S01054,Attijari bank,2023-02-10,32519.57,Autre,finance,0.88,564.31,rejeté,0,33,0.0,faible
+S01055,Attijari bank,2022-04-23,10269.93,Vol,finance,0.89,182.11,réglé,0,67,10748.08,faible
+S01056,Société de Placement et de Développement Industriel et Touristique,2021-04-18,62969.86,Autre,finance,0.87,1040.11,rejeté,0,32,0.0,moyen
+S01057,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2020-03-03,69237.6,Dommage matériel,industrie,0.64,3253.9,réglé,0,69,78139.93,élevé
+S01058,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2022-02-08,108959.2,Dommage matériel,industrie,0.62,4543.62,en cours,2,118,120518.48,élevé
+S01059,CITY CARS,2024-05-09,30296.2,Autre,transport,0.65,1190.1,réglé,3,72,32696.13,élevé
+S01060,DELICE HOLDING,2023-04-10,92710.14,Dommage matériel,industrie,0.65,3717.57,rejeté,4,45,0.0,élevé
+S01061,DELICE HOLDING,2022-05-22,101260.43,Autre,industrie,0.67,3797.33,réglé,4,71,111147.56,élevé
+S01062,Attijari bank,2022-08-06,39618.42,Autre,finance,0.8,848.27,réglé,0,30,40735.59,faible
+S01063,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2023-03-24,18518.96,Autre,industrie,0.64,831.92,réglé,4,50,19244.63,élevé
+S01064,ESSOUKNA,2023-06-02,106087.14,Autre,construction,0.62,4971.87,en cours,2,68,115188.99,élevé
+S01065,Société de Placement et de Développement Industriel et Touristique,2021-07-10,114724.15,Dommage matériel,finance,0.82,2271.34,rejeté,1,31,0.0,moyen
+S01066,DELICE HOLDING,2019-07-30,232224.51,Catastrophe naturelle,industrie,0.6,7837.45,réglé,1,34,264970.02,élevé
+S01067,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2023-02-20,1328335.7,Incendie,finance,0.87,29438.08,en cours,1,69,1411976.98,élevé
+S01068,SOCIETE TUNISIENNE DE BANQUE,2023-04-01,94393.86,Dommage matériel,finance,0.88,1878.46,réglé,1,14,107915.19,moyen
+S01069,WIFAK INTERNATIONAL BANK,2019-05-09,65791.3,Bris de machine,finance,0.83,1253.19,réglé,0,67,68672.0,moyen
+S01070,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2023-05-06,41549.41,Autre,technologie,0.77,1427.0,en cours,1,103,43157.44,moyen
+S01071,Société de Placement et de Développement Industriel et Touristique,2020-02-02,857051.78,Incendie,finance,0.86,15713.18,réglé,0,45,867635.17,moyen
+S01072,AIR LIQUIDE TUNISIE,2022-04-04,111505.34,Responsabilité civile,industrie,0.7,4147.5,réglé,8,68,124434.82,élevé
+S01073,NEW BODY LINE,2020-01-23,111942.34,Dégâts des eaux,commerce,0.71,2783.19,en cours,0,139,122263.64,moyen
+S01074,Société de Placement et de Développement Industriel et Touristique,2022-01-16,122912.81,Dommage matériel,finance,0.9,2666.75,réglé,0,27,141321.08,moyen
+S01075,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2022-04-21,104610.17,Responsabilité civile,finance,0.9,1734.26,réglé,0,83,118938.73,moyen
+S01076,COMPAGNIE INTERNATIONALE DE LEASING - CIL-,2022-03-16,188006.37,Catastrophe naturelle,finance,0.89,3507.12,réglé,1,56,211871.38,moyen
+S01077,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2018-07-02,1559713.67,Incendie,finance,0.83,25942.53,réglé,0,72,1656751.89,élevé
+S01078,BH BANK,2023-01-18,2533166.32,Interruption d'activité,finance,0.88,51241.2,réglé,2,46,2833301.11,élevé
+S01079,Automobiles Réseau Tunisien et Services ARTES,2020-06-22,120332.33,Responsabilité civile,commerce,0.7,3916.1,réglé,2,79,138198.33,moyen
+S01080,ESSOUKNA,2024-08-06,64723.09,Dégâts des eaux,construction,0.66,2772.58,rejeté,5,22,0.0,élevé
+S01081,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2018-08-05,87566.91,Autre,finance,0.86,2084.11,réglé,2,44,90579.49,moyen
+S01082,WIFAK INTERNATIONAL BANK,2023-12-19,68550.73,Dommage matériel,finance,0.84,1501.4,réglé,0,77,78252.44,moyen
+S01083,SMART TUNISIE.SA,2022-06-02,185138.86,Dommage matériel,technologie,0.73,5431.57,en cours,4,158,211261.38,moyen
+S01084,CELLCOM,2023-06-10,1552046.46,Interruption d'activité,technologie,0.79,40388.86,réglé,2,78,1639273.85,élevé
+S01085,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2023-04-26,242169.44,Dommage matériel,industrie,0.6,8732.35,réglé,4,28,252063.42,élevé
+S01086,SOCIETE TUNISIENNE DE BANQUE,2021-05-14,137368.72,Dommage matériel,finance,0.86,2320.19,réglé,1,52,150332.65,moyen
+S01087,SOCIETE TUNISIENNE DE BANQUE,2021-09-03,1910284.67,Interruption d'activité,finance,0.84,39218.02,réglé,0,79,2166583.56,élevé
+S01088,ESSOUKNA,2021-09-03,21400.9,Autre,construction,0.6,824.96,en cours,2,163,23809.1,élevé
+S01089,NEW BODY LINE,2020-10-01,18523.98,Vol,commerce,0.73,615.38,réglé,1,59,18934.67,moyen
+S01090,UNION INTERNATIONALE DE BANQUES - UIB,2024-07-19,195602.82,Dommage matériel,finance,0.89,3339.25,réglé,1,58,224872.0,moyen
+S01091,Société de Placement et de Développement Industriel et Touristique,2020-02-29,114405.28,Bris de machine,finance,0.89,2178.41,réglé,0,51,124103.78,moyen
+S01092,BANQUE NATIONALE AGRICOLE –BNA BANK-,2020-01-28,53372.71,Autre,finance,0.85,1046.77,rejeté,0,18,0.0,moyen
+S01093,CELLCOM,2022-02-05,44359.9,Bris de machine,technologie,0.73,1595.36,réglé,2,39,44534.15,moyen
+S01094,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2021-06-16,56802.56,Dommage matériel,finance,0.86,1302.19,réglé,1,68,60076.45,moyen
+S01095,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2019-02-18,264862.04,Catastrophe naturelle,finance,0.84,6266.62,réglé,1,65,266398.62,moyen
+S01096,BH LEASING,2019-02-09,293667.13,Catastrophe naturelle,finance,0.89,4984.88,réglé,3,54,329674.94,moyen
+S01097,PLACEMENTS DE TUNISIE SICAF,2018-02-06,166386.19,Catastrophe naturelle,finance,0.85,2928.66,réglé,1,51,166860.72,moyen
+S01098,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2021-08-11,76316.89,Autre,finance,0.88,1455.8,réglé,2,31,84914.73,moyen
+S01099,TUNINVEST SICAR,2024-02-22,28499.1,Vol,finance,0.89,589.64,en cours,0,86,28858.65,faible
+S01100,NEW BODY LINE,2018-10-04,376616.27,Incendie,commerce,0.8,12897.43,en cours,4,128,415049.86,moyen
+S01101,Automobiles Réseau Tunisien et Services ARTES,2022-06-21,2464022.79,Interruption d'activité,commerce,0.76,74230.09,réglé,1,47,2693990.23,élevé
+S01102,ENNAKL AUTOMOBILES,2023-05-24,169806.05,Dommage matériel,transport,0.63,6021.59,en cours,4,138,182155.68,élevé
+S01103,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2018-07-05,77992.61,Dégâts des eaux,finance,0.86,1403.69,réglé,2,62,86906.92,moyen
+S01104,TUNINVEST SICAR,2020-03-03,1242906.6,Interruption d'activité,finance,0.87,23274.72,rejeté,0,28,0.0,élevé
+S01105,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2019-12-23,37651.57,Autre,finance,0.8,825.86,réglé,1,52,43220.93,faible
+S01106,OFFICE PLAST S.A,2022-05-25,96330.61,Dommage matériel,industrie,0.68,3246.72,en cours,4,79,98157.51,élevé
+S01107,ENNAKL AUTOMOBILES,2023-09-22,26734.3,Autre,transport,0.69,1069.7,réglé,1,35,27508.73,élevé
+S01108,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2024-05-26,43111.07,Autre,technologie,0.8,1319.51,réglé,2,54,44662.91,moyen
+S01109,Amen Bank,2018-10-31,134809.68,Responsabilité civile,finance,0.81,2870.08,réglé,3,54,145302.78,moyen
+S01110,BH BANK,2018-11-17,127903.36,Bris de machine,finance,0.83,2319.19,rejeté,2,32,0.0,moyen
+S01111,Société Nouvelle Maison de la Ville de Tunis « MONOPRIX »,2024-06-11,122048.74,Dommage matériel,commerce,0.75,4204.47,rejeté,2,16,0.0,moyen
+S01112,DELICE HOLDING,2019-01-27,60797.13,Dommage matériel,industrie,0.69,2675.29,réglé,4,67,63281.94,élevé
+S01113,BNA Assurances,2020-12-24,75609.02,Dommage matériel,finance,0.88,1433.75,réglé,1,70,84015.72,moyen
+S01114,Société Nouvelle Maison de la Ville de Tunis « MONOPRIX »,2018-10-18,168181.66,Dommage matériel,commerce,0.71,5474.98,en cours,2,149,170247.9,moyen
+S01115,SOCIETE TUNISIENNE DE BANQUE,2019-10-03,176238.65,Dégâts des eaux,finance,0.81,3236.23,réglé,1,52,180624.76,moyen
+S01116,Société Moderne de Céramique -SOMOCER-,2023-05-06,80975.63,Bris de machine,industrie,0.69,3718.49,réglé,4,58,84022.69,élevé
+S01117,BH ASSURANCE,2020-10-15,54008.38,Bris de machine,finance,0.89,1001.79,en cours,1,123,59811.43,moyen
+S01118,ESSOUKNA,2024-12-18,41466.13,Autre,construction,0.68,1854.69,réglé,7,51,44198.38,élevé
+S01119,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2024-05-13,35911.74,Vol,industrie,0.6,1477.16,réglé,3,27,38165.77,élevé
+S01120,Automobiles Réseau Tunisien et Services ARTES,2022-04-14,34808.54,Vol,commerce,0.79,1185.62,réglé,1,78,35673.57,moyen
+S01121,BNA Assurances,2018-08-29,117815.05,Dégâts des eaux,finance,0.85,2739.79,rejeté,1,32,0.0,moyen
+S01122,Compagnie d’assurances et de réassurances ASTREE,2022-04-14,52579.9,Dommage matériel,finance,0.89,1181.69,réglé,1,46,55266.52,moyen
+S01123,AIR LIQUIDE TUNISIE,2021-11-17,123456.43,Dommage matériel,industrie,0.65,4695.58,réglé,3,43,123767.48,élevé
+S01124,BH ASSURANCE,2024-08-26,158262.39,Responsabilité civile,finance,0.83,3041.04,en cours,2,89,174045.79,moyen
+S01125,ENNAKL AUTOMOBILES,2024-10-04,156860.39,Catastrophe naturelle,transport,0.68,7349.18,en cours,2,90,180165.02,élevé
+S01126,Société Tunisienne d’Email -SOTEMAIL-,2022-12-07,119013.74,Dommage matériel,industrie,0.66,3964.81,réglé,2,50,119563.84,élevé
+S01127,TUNINVEST SICAR,2020-08-25,90440.16,Dommage matériel,finance,0.82,1756.18,réglé,4,62,93370.14,moyen
+S01128,ENNAKL AUTOMOBILES,2024-02-19,206757.55,Dommage matériel,transport,0.65,9100.75,réglé,3,47,226661.98,élevé
+S01129,BNA Assurances,2022-05-05,120038.5,Dommage matériel,finance,0.86,2032.3,réglé,1,71,130568.93,moyen
+S01130,TUNINVEST SICAR,2023-07-13,38644.5,Dommage matériel,finance,0.88,918.9,rejeté,1,21,0.0,faible
+S01131,BH BANK,2023-01-06,41638.63,Dommage matériel,finance,0.89,724.36,réglé,1,98,41874.44,faible
+S01132,Amen Bank,2024-04-28,135009.17,Dégâts des eaux,finance,0.81,2320.45,réglé,0,23,143834.28,moyen
+S01133,ESSOUKNA,2021-08-10,718611.35,Incendie,construction,0.66,29506.26,réglé,6,32,764772.56,élevé
+S01134,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2024-03-28,55507.5,Autre,energie,0.66,2300.67,rejeté,1,38,0.0,élevé
+S01135,L’Accumulateur Tunisien ASSAD,2018-01-23,28376.61,Autre,industrie,0.66,1301.97,réglé,1,54,28544.94,élevé
+S01136,BNA Assurances,2020-07-26,1141632.97,Incendie,finance,0.86,21535.32,rejeté,1,41,0.0,élevé
+S01137,NEW BODY LINE,2024-07-16,255727.13,Dommage matériel,commerce,0.71,7649.92,réglé,2,48,286954.74,moyen
+S01138,ALKIMIA,2020-01-30,119998.27,Dommage matériel,energie,0.64,4826.3,réglé,1,36,121910.56,élevé
+S01139,Euro Cycles,2022-01-27,64706.04,Autre,industrie,0.64,3043.31,réglé,4,64,72704.08,élevé
+S01140,TUNINVEST SICAR,2018-12-25,570176.27,Catastrophe naturelle,finance,0.88,12738.69,réglé,2,49,581890.38,moyen
+S01141,Amen Bank,2023-03-15,52045.92,Dégâts des eaux,finance,0.84,965.85,rejeté,0,36,0.0,moyen
+S01142,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2023-07-21,82187.88,Autre,industrie,0.69,3806.79,réglé,4,49,89271.0,élevé
+S01143,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2023-02-23,108264.92,Autre,industrie,0.7,4764.58,réglé,0,61,114897.25,élevé
+S01144,ATTIJARI LEASING,2022-01-31,179798.01,Catastrophe naturelle,finance,0.82,3291.68,réglé,1,53,198549.89,moyen
+S01145,Unimed,2023-03-10,37329.31,Autre,sante,0.78,1174.38,rejeté,1,45,0.0,moyen
+S01146,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2021-12-22,261491.68,Catastrophe naturelle,industrie,0.61,9927.9,réglé,2,72,279378.36,élevé
+S01147,LES CIMENTS DE BIZERTE,2018-10-05,302613.45,Catastrophe naturelle,industrie,0.65,13911.32,réglé,2,40,323426.33,élevé
+S01148,Amen Bank,2021-02-01,74378.98,Autre,finance,0.82,1710.71,réglé,1,50,83392.03,moyen
+S01149,Automobiles Réseau Tunisien et Services ARTES,2023-09-17,21478.42,Vol,commerce,0.78,747.49,réglé,0,71,23236.09,moyen
+S01150,SOCIETE TUNISIENNE DE BANQUE,2024-03-06,85903.14,Bris de machine,finance,0.81,1748.92,réglé,0,61,95234.94,moyen
+S01151,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2021-08-07,52753.28,Autre,industrie,0.67,1901.66,réglé,2,35,59132.81,élevé
+S01152,LES CIMENTS DE BIZERTE,2018-08-16,62358.49,Dégâts des eaux,industrie,0.69,2699.24,réglé,3,59,62534.56,élevé
+S01153,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2022-09-23,75256.49,Dommage matériel,technologie,0.74,2432.73,réglé,1,53,85598.1,moyen
+S01154,LES CIMENTS DE BIZERTE,2024-05-22,811350.73,Catastrophe naturelle,industrie,0.65,31115.8,rejeté,3,30,0.0,élevé
+S01155,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2024-03-28,54599.48,Dégâts des eaux,technologie,0.72,1715.0,en cours,0,160,60462.68,moyen
+S01156,Amen Bank,2023-06-07,74648.84,Dommage matériel,finance,0.81,1625.08,en cours,2,93,75149.35,moyen
+S01157,Automobiles Réseau Tunisien et Services ARTES,2023-04-02,178113.08,Responsabilité civile,commerce,0.74,5727.33,rejeté,0,34,0.0,moyen
+S01158,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2021-10-31,26552.96,Dommage matériel,technologie,0.71,773.89,réglé,3,61,29323.29,moyen
+S01159,OFFICE PLAST S.A,2022-09-28,34970.31,Autre,industrie,0.6,1448.46,réglé,6,40,35577.73,élevé
+S01160,LES CIMENTS DE BIZERTE,2022-05-18,61224.11,Dommage matériel,industrie,0.62,2407.53,réglé,3,57,67223.53,élevé
+S01161,NEW BODY LINE,2021-07-02,42669.33,Autre,commerce,0.78,1410.09,réglé,3,76,48701.61,moyen
+S01162,SOCIETE TUNISIENNE DE BANQUE,2019-01-24,159400.79,Dommage matériel,finance,0.82,3011.5,réglé,0,72,172624.34,moyen
+S01163,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2022-09-02,322967.06,Catastrophe naturelle,industrie,0.66,11062.75,réglé,0,66,350081.12,élevé
+S01164,ESSOUKNA,2023-11-29,1031116.5,Incendie,construction,0.6,34390.31,réglé,4,58,1106994.2,élevé
+S01165,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2021-03-03,33468.26,Dégâts des eaux,industrie,0.68,1296.59,réglé,1,50,37264.93,élevé
+S01166,ASSURANCES MAGHREBIA VIE S.A,2023-09-24,73046.51,Dégâts des eaux,finance,0.83,1576.92,rejeté,2,39,0.0,moyen
+S01167,Carthage Cement,2024-06-21,95600.75,Responsabilité civile,industrie,0.65,4231.19,réglé,0,63,95699.48,élevé
+S01168,OFFICE PLAST S.A,2019-12-18,203967.69,Catastrophe naturelle,industrie,0.7,6983.56,en cours,1,98,212968.94,élevé
+S01169,Société Nouvelle Maison de la Ville de Tunis « MONOPRIX »,2020-02-10,833419.85,Incendie,commerce,0.74,24332.1,réglé,1,69,839104.91,moyen
+S01170,DELICE HOLDING,2023-03-18,4231195.19,Interruption d'activité,industrie,0.61,156308.88,en cours,1,82,4835142.87,élevé
+S01171,TUNINVEST SICAR,2018-04-26,173983.27,Dommage matériel,finance,0.84,3579.48,réglé,0,43,191903.57,moyen
+S01172,PLACEMENTS DE TUNISIE SICAF,2020-04-04,47347.91,Autre,finance,0.86,1019.52,réglé,2,46,52319.23,faible
+S01173,LES CIMENTS DE BIZERTE,2019-12-19,155027.19,Responsabilité civile,industrie,0.64,7094.23,en cours,2,66,174880.58,élevé
+S01174,NEW BODY LINE,2022-12-18,33341.39,Autre,commerce,0.75,940.63,réglé,2,33,38306.42,moyen
+S01175,Attijari bank,2022-03-12,168361.76,Catastrophe naturelle,finance,0.89,3844.22,réglé,0,87,176331.28,moyen
+S01176,WIFAK INTERNATIONAL BANK,2018-02-09,1347641.14,Incendie,finance,0.88,24145.21,réglé,1,65,1522408.02,élevé
+S01177,Société de Placement et de Développement Industriel et Touristique,2019-10-05,706196.11,Incendie,finance,0.87,14788.75,rejeté,1,18,0.0,moyen
+S01178,NEW BODY LINE,2019-12-29,323462.92,Catastrophe naturelle,commerce,0.71,10826.7,réglé,1,48,323595.16,moyen
+S01179,ENNAKL AUTOMOBILES,2024-04-14,121525.82,Bris de machine,transport,0.62,4025.68,réglé,6,39,128940.53,élevé
+S01180,BANQUE NATIONALE AGRICOLE –BNA BANK-,2019-09-10,197887.36,Dommage matériel,finance,0.89,4725.1,réglé,1,61,200893.17,moyen
+S01181,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2024-12-06,16027.0,Vol,industrie,0.7,518.96,réglé,0,46,18046.91,élevé
+S01182,ASSURANCES MAGHREBIA S.A,2020-07-29,95574.98,Bris de machine,finance,0.83,1555.44,en cours,2,134,106133.38,moyen
+S01183,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2024-04-30,641977.86,Catastrophe naturelle,transport,0.67,28585.55,réglé,5,60,719918.05,élevé
+S01184,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2024-11-12,81001.71,Dommage matériel,transport,0.7,3444.3,en cours,7,86,90662.4,élevé
+S01185,BANQUE INTERNATIONALE ARABE DE TUNISIE,2019-05-10,125230.32,Dommage matériel,finance,0.82,2457.89,en cours,1,143,128593.05,moyen
+S01186,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2019-08-24,210569.81,Catastrophe naturelle,finance,0.83,3388.2,rejeté,3,12,0.0,moyen
+S01187,PLACEMENTS DE TUNISIE SICAF,2023-12-01,93603.78,Dégâts des eaux,finance,0.82,2177.67,réglé,2,49,106620.98,moyen
+S01188,ENNAKL AUTOMOBILES,2022-12-11,12010.33,Vol,transport,0.61,414.94,rejeté,5,34,0.0,élevé
+S01189,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2021-08-27,71833.04,Dommage matériel,finance,0.89,1494.92,rejeté,1,15,0.0,moyen
+S01190,Société Moderne de Céramique -SOMOCER-,2023-12-07,48414.65,Autre,industrie,0.62,1982.32,réglé,4,50,53410.08,élevé
+S01191,COMPAGNIE INTERNATIONALE DE LEASING - CIL-,2022-02-23,9845.39,Vol,finance,0.89,203.54,réglé,1,28,10342.78,faible
+S01192,BH ASSURANCE,2021-10-04,125421.11,Dommage matériel,finance,0.81,2932.97,réglé,1,50,141526.59,moyen
+S01193,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2021-08-19,26068.14,Responsabilité civile,industrie,0.63,974.81,en cours,3,86,28047.27,élevé
+S01194,Société de Placement et de Développement Industriel et Touristique,2019-01-21,220773.55,Catastrophe naturelle,finance,0.87,4112.11,réglé,4,53,233760.6,moyen
+S01195,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2023-02-28,1253374.3,Incendie,finance,0.83,20632.05,en cours,1,169,1381527.06,élevé
+S01196,AIR LIQUIDE TUNISIE,2018-03-28,50876.81,Autre,industrie,0.66,1981.95,réglé,6,57,57958.13,élevé
+S01197,HANNIBAL LEASE SA,2022-07-16,127205.26,Dégâts des eaux,finance,0.86,3030.98,en cours,0,146,143216.96,moyen
+S01198,ESSOUKNA,2021-08-05,1943017.52,Interruption d'activité,construction,0.69,68635.9,réglé,4,63,2074050.76,élevé
+S01199,L’Accumulateur Tunisien ASSAD,2020-12-30,95780.84,Responsabilité civile,industrie,0.66,3837.7,réglé,0,82,96861.54,élevé
+S01200,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2020-12-12,981613.89,Incendie,finance,0.82,18467.51,réglé,2,55,1045571.81,moyen
+S01201,ESSOUKNA,2024-07-10,87435.77,Autre,construction,0.66,3127.12,réglé,1,78,97322.57,élevé
+S01202,HANNIBAL LEASE SA,2022-08-20,14586.3,Vol,finance,0.82,282.57,réglé,0,80,14775.02,faible
+S01203,CITY CARS,2019-12-22,69082.84,Dommage matériel,transport,0.63,3144.12,réglé,2,71,70733.1,élevé
+S01204,Automobiles Réseau Tunisien et Services ARTES,2023-09-18,292550.17,Dommage matériel,commerce,0.77,8093.05,réglé,1,53,293417.69,moyen
+S01205,L’Accumulateur Tunisien ASSAD,2022-10-22,2496188.22,Incendie,industrie,0.65,109209.29,réglé,3,79,2643015.62,élevé
+S01206,ALKIMIA,2024-12-15,57050.77,Dommage matériel,energie,0.65,1846.3,réglé,6,77,64483.43,élevé
+S01207,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2022-10-09,1201535.75,Incendie,industrie,0.6,55361.78,réglé,2,68,1300805.94,élevé
+S01208,LES CIMENTS DE BIZERTE,2024-08-27,137544.69,Catastrophe naturelle,industrie,0.62,5948.22,en cours,5,129,154108.73,élevé
+S01209,PLACEMENTS DE TUNISIE SICAF,2022-05-31,1241164.2,Incendie,finance,0.86,28520.54,réglé,0,54,1324620.31,élevé
+S01210,Euro Cycles,2024-03-29,8225355.66,Interruption d'activité,industrie,0.69,362200.67,réglé,4,58,8782974.31,élevé
+S01211,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2019-07-17,2331500.47,Interruption d'activité,industrie,0.61,89128.53,réglé,0,70,2579124.73,élevé
+S01212,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2024-08-08,119405.73,Dommage matériel,technologie,0.72,4178.92,réglé,3,65,122431.2,moyen
+S01213,الجملة لأسواق التونسيـــّـــــة,2023-11-05,6529155.39,Incendie,commerce,0.71,227909.97,réglé,3,76,7185598.3,élevé
+S01214,BH ASSURANCE,2018-04-13,27333.27,Autre,finance,0.82,448.37,en cours,2,106,30452.59,faible
+S01215,TUNISIE LEASING & FACTORING,2018-10-20,150485.46,Dommage matériel,finance,0.81,3086.5,réglé,0,67,167221.0,moyen
+S01216,Tunisie Profilés Aluminium -TPR-,2022-09-12,272739.39,Dommage matériel,industrie,0.6,9949.43,en cours,6,147,294228.95,élevé
+S01217,ASSURANCES MAGHREBIA VIE S.A,2020-03-23,37219.42,Dégâts des eaux,finance,0.82,791.63,rejeté,2,26,0.0,faible
+S01218,ALKIMIA,2020-06-15,38387.13,Autre,energie,0.69,1635.82,réglé,1,44,41917.96,élevé
+S01219,Amen Bank,2019-04-30,138415.51,Dommage matériel,finance,0.86,2496.31,réglé,1,69,148231.69,moyen
+S01220,Carthage Cement,2023-02-07,3080757.15,Interruption d'activité,industrie,0.65,102835.1,en cours,4,98,3246759.29,élevé
+S01221,BH LEASING,2024-12-23,64865.53,Dégâts des eaux,finance,0.86,1430.28,réglé,0,60,66538.45,moyen
+S01222,BH LEASING,2023-05-21,101827.63,Autre,finance,0.87,2228.75,en cours,2,126,115508.33,moyen
+S01223,OFFICE PLAST S.A,2019-05-17,119925.28,Dommage matériel,industrie,0.67,4142.55,rejeté,3,32,0.0,élevé
+S01224,ENNAKL AUTOMOBILES,2019-01-20,71875.35,Dégâts des eaux,transport,0.61,2701.67,en cours,1,94,72238.64,élevé
+S01225,L’Accumulateur Tunisien ASSAD,2020-10-26,1426487.89,Incendie,industrie,0.68,52399.14,réglé,3,47,1521845.9,élevé
+S01226,الجملة لأسواق التونسيـــّـــــة,2022-09-16,81610.62,Dommage matériel,commerce,0.75,2422.26,réglé,4,33,84266.41,moyen
+S01227,ASSURANCES MAGHREBIA VIE S.A,2022-01-12,562524.01,Incendie,finance,0.84,12100.34,réglé,2,63,610786.48,moyen
+S01228,Automobiles Réseau Tunisien et Services ARTES,2019-05-27,21358.91,Vol,commerce,0.74,541.91,en cours,2,127,24077.59,moyen
+S01229,ESSOUKNA,2019-11-27,143102.71,Responsabilité civile,construction,0.69,5949.12,réglé,5,45,150486.44,élevé
+S01230,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2024-01-08,147784.71,Responsabilité civile,technologie,0.78,4667.53,en cours,3,153,158788.62,moyen
+S01231,BANQUE NATIONALE AGRICOLE –BNA BANK-,2024-12-09,115028.53,Responsabilité civile,finance,0.8,2032.52,réglé,0,65,131744.13,moyen
+S01232,Amen Bank,2021-03-11,161414.34,Catastrophe naturelle,finance,0.87,3750.98,réglé,3,46,170943.74,moyen
+S01233,ENNAKL AUTOMOBILES,2023-05-18,108113.44,Dommage matériel,transport,0.66,4958.31,réglé,1,53,108773.95,élevé
+S01234,COMPAGNIE INTERNATIONALE DE LEASING - CIL-,2018-10-18,960452.32,Responsabilité civile,finance,0.9,16662.04,réglé,2,44,1044061.03,moyen
+S01235,CELLCOM,2018-03-16,222260.8,Responsabilité civile,technologie,0.77,5928.28,réglé,4,61,245006.52,moyen
+S01236,OFFICE PLAST S.A,2019-10-24,2033834.77,Incendie,industrie,0.69,82178.82,réglé,4,70,2323580.63,élevé
+S01237,BH BANK,2020-04-07,77649.75,Autre,finance,0.85,1788.51,en cours,1,120,86818.25,moyen
+S01238,HANNIBAL LEASE SA,2023-09-09,106763.29,Responsabilité civile,finance,0.85,2263.74,réglé,1,49,107114.91,moyen
+S01239,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2019-08-27,141548.39,Dommage matériel,industrie,0.68,5380.68,en cours,4,101,144534.23,élevé
+S01240,الجملة لأسواق التونسيـــّـــــة,2021-12-30,272872.44,Catastrophe naturelle,commerce,0.72,7259.11,réglé,4,49,309896.24,moyen
+S01241,Les Industries Chimiques du Fluor,2019-07-26,41041.08,Autre,industrie,0.6,1941.83,en cours,6,156,41707.16,élevé
+S01242,BNA Assurances,2020-09-08,36104.48,Responsabilité civile,finance,0.81,672.9,réglé,0,61,37225.4,faible
+S01243,Société Nouvelle Maison de la Ville de Tunis « MONOPRIX »,2023-12-20,24517.73,Autre,commerce,0.76,608.84,réglé,3,77,28129.1,moyen
+S01244,Euro Cycles,2024-07-04,211997.74,Catastrophe naturelle,industrie,0.68,7584.18,réglé,4,65,226517.33,élevé
+S01245,BH ASSURANCE,2021-09-30,87981.47,Dégâts des eaux,finance,0.89,1637.25,réglé,1,44,89087.9,moyen
+S01246,Unimed,2018-12-22,41045.24,Dégâts des eaux,sante,0.7,1190.69,réglé,0,48,44669.93,moyen
+S01247,BANQUE NATIONALE AGRICOLE –BNA BANK-,2021-12-09,1347637.21,Incendie,finance,0.88,29693.08,rejeté,1,42,0.0,élevé
+S01248,BNA Assurances,2024-08-14,219770.24,Dommage matériel,finance,0.86,3911.86,réglé,1,61,231927.61,moyen
+S01249,SMART TUNISIE.SA,2020-05-10,136868.81,Responsabilité civile,technologie,0.74,4042.32,réglé,1,69,156624.47,moyen
+S01250,NEW BODY LINE,2020-06-26,2133336.68,Incendie,commerce,0.76,72598.9,réglé,0,68,2226494.73,élevé
+S01251,UNION INTERNATIONALE DE BANQUES - UIB,2022-10-18,39218.27,Responsabilité civile,finance,0.89,691.67,réglé,1,65,41175.56,faible
+S01252,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2019-10-29,222475.77,Catastrophe naturelle,finance,0.88,3743.17,réglé,0,63,243132.09,moyen
+S01253,Société de Placement et de Développement Industriel et Touristique,2020-08-30,76485.7,Bris de machine,finance,0.85,1601.06,réglé,0,79,77908.23,moyen
+S01254,الجملة لأسواق التونسيـــّـــــة,2024-03-06,149302.38,Catastrophe naturelle,commerce,0.75,3841.49,réglé,5,51,164474.47,moyen
+S01255,OFFICE PLAST S.A,2020-04-26,27788.36,Autre,industrie,0.66,1272.29,réglé,4,65,30928.61,élevé
+S01256,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2020-07-10,61330.59,Autre,finance,0.8,1195.68,réglé,0,34,61727.25,moyen
+S01257,BH ASSURANCE,2020-12-18,5382091.2,Interruption d'activité,finance,0.85,116437.53,réglé,1,40,5986612.93,élevé
+S01258,Compagnie d’assurances et de réassurances ASTREE,2019-04-08,56428.43,Autre,finance,0.85,1082.62,réglé,3,57,63241.98,moyen
+S01259,ATTIJARI LEASING,2020-04-25,229995.1,Responsabilité civile,finance,0.86,5173.64,réglé,1,63,244172.12,moyen
+S01260,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2021-09-02,92476.7,Dommage matériel,industrie,0.66,3620.35,réglé,4,68,105096.24,élevé
+S01261,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2023-08-13,73022.82,Responsabilité civile,industrie,0.65,2436.19,réglé,2,54,75368.61,élevé
+S01262,SOCIETE TUNISIENNE DE BANQUE,2021-05-04,88978.77,Dégâts des eaux,finance,0.9,1713.61,réglé,2,57,100648.2,moyen
+S01263,ASSURANCES MAGHREBIA VIE S.A,2020-02-11,16873.55,Vol,finance,0.85,287.29,réglé,2,67,17400.39,faible
+S01264,SMART TUNISIE.SA,2020-03-09,167973.06,Dégâts des eaux,technologie,0.73,4473.52,réglé,2,49,184753.89,moyen
+S01265,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2024-01-19,2833456.53,Interruption d'activité,industrie,0.64,129567.62,réglé,3,56,2857222.84,élevé
+S01266,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2023-07-13,32775.56,Autre,technologie,0.8,991.14,réglé,3,25,36644.6,moyen
+S01267,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2018-12-25,316610.99,Catastrophe naturelle,finance,0.87,5630.75,réglé,3,77,362902.78,moyen
+S01268,Les Industries Chimiques du Fluor,2018-02-16,38334.87,Autre,industrie,0.62,1710.34,rejeté,1,11,0.0,élevé
+S01269,NEW BODY LINE,2020-06-15,28309.9,Autre,commerce,0.74,863.6,réglé,1,67,28535.32,moyen
+S01270,الجملة لأسواق التونسيـــّـــــة,2023-05-01,609013.99,Catastrophe naturelle,commerce,0.73,18352.25,réglé,1,87,659457.64,moyen
+S01271,SOCIETE D’ARTICLES HYGIENIQUES « SAH »,2018-03-18,19981.72,Autre,industrie,0.6,790.95,réglé,6,48,22036.34,élevé
+S01272,SOCIETE TUNISIENNE DE BANQUE,2023-11-04,65556.95,Bris de machine,finance,0.87,1515.65,réglé,1,48,71135.94,moyen
+S01273,ENNAKL AUTOMOBILES,2023-11-01,215248.46,Responsabilité civile,transport,0.64,9930.39,en cours,4,112,230317.58,élevé
+S01274,Best Lease,2022-07-18,552467.76,Incendie,finance,0.8,9118.11,réglé,1,41,619767.18,moyen
+S01275,Amen Bank,2022-05-11,2357944.98,Incendie,finance,0.9,46068.38,en cours,0,103,2420165.52,élevé
+S01276,BH LEASING,2024-07-16,50226.57,Vol,finance,0.84,845.27,réglé,0,57,56596.69,moyen
+S01277,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2022-01-15,47161.36,Autre,finance,0.86,756.01,réglé,2,84,49885.28,faible
+S01278,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2024-11-23,193826.37,Dommage matériel,technologie,0.78,5561.4,réglé,2,89,194130.81,moyen
+S01279,ATTIJARI LEASING,2024-03-04,3636293.19,Interruption d'activité,finance,0.86,86182.23,réglé,1,63,3730512.07,élevé
+S01280,DELICE HOLDING,2022-09-30,110188.76,Catastrophe naturelle,industrie,0.64,4047.11,réglé,2,52,116962.69,élevé
+S01281,ESSOUKNA,2021-12-31,33346.57,Dommage matériel,construction,0.69,1252.61,en cours,4,120,36311.03,élevé
+S01282,ATTIJARI LEASING,2019-07-15,98824.48,Catastrophe naturelle,finance,0.85,2078.95,réglé,0,71,113189.41,moyen
+S01283,BANQUE INTERNATIONALE ARABE DE TUNISIE,2018-01-03,28149.23,Autre,finance,0.88,532.8,en cours,0,107,29190.65,faible
+S01284,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2022-10-01,508020.18,Catastrophe naturelle,industrie,0.66,22494.52,réglé,4,40,551140.97,élevé
+S01285,BH ASSURANCE,2018-11-15,12599.08,Vol,finance,0.87,278.12,réglé,0,68,12669.9,faible
+S01286,BH ASSURANCE,2023-08-07,25760.39,Autre,finance,0.89,559.8,rejeté,1,29,0.0,faible
+S01287,LES CIMENTS DE BIZERTE,2020-10-23,77463.91,Dommage matériel,industrie,0.63,2994.04,réglé,1,62,89021.64,élevé
+S01288,ENNAKL AUTOMOBILES,2021-07-14,29571.53,Autre,transport,0.62,1338.82,réglé,3,58,30441.19,élevé
+S01289,Automobiles Réseau Tunisien et Services ARTES,2018-11-01,25346.25,Dégâts des eaux,commerce,0.79,887.97,rejeté,1,24,0.0,moyen
+S01290,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2022-05-22,105169.69,Autre,technologie,0.73,2527.37,réglé,4,48,108986.86,moyen
+S01291,PLACEMENTS DE TUNISIE SICAF,2018-12-25,30941.63,Autre,finance,0.85,698.61,réglé,3,67,32343.42,faible
+S01292,HANNIBAL LEASE SA,2024-02-07,53785.82,Dommage matériel,finance,0.83,1013.61,réglé,0,55,59922.95,moyen
+S01293,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2023-07-01,39914.59,Responsabilité civile,technologie,0.75,1015.87,réglé,5,49,41384.84,moyen
+S01294,Attijari bank,2021-03-30,238609.57,Dommage matériel,finance,0.87,4376.31,réglé,1,73,263601.91,moyen
+S01295,Automobiles Réseau Tunisien et Services ARTES,2018-03-16,8630.47,Vol,commerce,0.76,241.65,réglé,4,46,9140.05,moyen
+S01296,BH ASSURANCE,2021-11-03,137545.84,Dégâts des eaux,finance,0.88,2786.1,réglé,3,69,151657.51,moyen
+S01297,HANNIBAL LEASE SA,2022-08-21,1454203.52,Incendie,finance,0.89,31879.92,réglé,0,67,1459519.99,élevé
+S01298,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2018-06-09,47574.4,Autre,technologie,0.75,1430.91,en cours,6,121,54492.12,moyen
+S01299,Amen Bank,2023-03-18,5715947.04,Interruption d'activité,finance,0.83,100540.44,réglé,0,44,5746735.74,élevé
+S01300,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2018-12-27,138419.43,Dommage matériel,industrie,0.64,6431.83,réglé,2,52,138603.95,élevé
+S01301,SMART TUNISIE.SA,2019-07-18,85861.0,Autre,technologie,0.76,2602.85,réglé,3,72,89617.91,moyen
+S01302,Tunisie Profilés Aluminium -TPR-,2020-11-30,137759.5,Catastrophe naturelle,industrie,0.63,6474.59,en cours,7,139,139304.9,élevé
+S01303,Euro Cycles,2022-01-01,61070.46,Dégâts des eaux,industrie,0.62,2408.72,réglé,5,71,62375.44,élevé
+S01304,TUNINVEST SICAR,2018-03-31,1019930.24,Incendie,finance,0.85,17179.38,réglé,0,77,1149361.94,élevé
+S01305,Unimed,2022-02-02,14055.69,Vol,sante,0.78,367.23,réglé,2,86,14501.51,moyen
+S01306,Attijari bank,2018-05-16,16178.39,Vol,finance,0.83,353.4,réglé,0,48,17635.96,faible
+S01307,Best Lease,2019-04-26,2687600.71,Incendie,finance,0.84,51031.99,réglé,0,42,2803144.09,élevé
+S01308,ENNAKL AUTOMOBILES,2019-05-20,33133.33,Autre,transport,0.69,1068.92,réglé,0,51,36670.41,élevé
+S01309,BANQUE NATIONALE AGRICOLE –BNA BANK-,2024-02-19,71610.81,Dommage matériel,finance,0.83,1151.38,réglé,1,60,80087.52,moyen
+S01310,SMART TUNISIE.SA,2022-01-28,388023.89,Catastrophe naturelle,technologie,0.77,11718.9,réglé,3,43,427458.2,moyen
+S01311,ASSURANCES MAGHREBIA VIE S.A,2024-09-12,202869.85,Dégâts des eaux,finance,0.88,4676.77,réglé,3,71,228583.86,moyen
+S01312,ESSOUKNA,2021-07-27,4444472.34,Incendie,construction,0.63,203518.5,réglé,3,67,4702667.0,élevé
+S01313,Les Industries Chimiques du Fluor,2022-04-07,1663060.27,Incendie,industrie,0.64,77156.95,réglé,3,71,1825016.19,élevé
+S01314,TUNISIE LEASING & FACTORING,2020-02-15,12631.86,Autre,finance,0.88,270.97,réglé,2,38,13160.97,faible
+S01315,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2020-05-08,8448.53,Vol,technologie,0.78,225.08,réglé,1,41,8979.1,moyen
+S01316,SOCIETE TUNISIENNE DE BANQUE,2021-02-19,13258.6,Vol,finance,0.81,312.6,réglé,4,42,14191.51,faible
+S01317,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2020-05-23,1405747.33,Incendie,energie,0.7,55157.48,réglé,0,53,1588360.05,élevé
+S01318,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2024-10-03,71214.58,Dommage matériel,finance,0.82,1460.2,réglé,1,64,73393.42,moyen
+S01319,SOCIETE D’ARTICLES HYGIENIQUES « SAH »,2024-01-16,3338495.29,Incendie,industrie,0.7,109228.82,réglé,4,57,3833175.0,élevé
+S01320,ASSURANCES MAGHREBIA VIE S.A,2018-07-06,45181.64,Dégâts des eaux,finance,0.86,770.32,rejeté,0,33,0.0,faible
+S01321,TUNINVEST SICAR,2019-06-29,20149.45,Autre,finance,0.84,374.7,en cours,2,100,20262.87,faible
+S01322,ASSURANCES MAGHREBIA S.A,2019-04-18,66910.05,Dégâts des eaux,finance,0.87,1288.43,rejeté,1,16,0.0,moyen
+S01323,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2024-04-12,118399.3,Dommage matériel,industrie,0.61,4268.49,en cours,8,154,132449.09,élevé
+S01324,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2024-02-18,573453.06,Incendie,industrie,0.63,26250.04,réglé,6,58,597804.1,élevé
+S01325,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2018-01-27,52255.58,Dommage matériel,industrie,0.61,2079.41,réglé,3,56,55807.53,élevé
+S01326,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2018-11-23,39534.81,Autre,transport,0.67,1304.72,réglé,2,74,42586.85,élevé
+S01327,Attijari bank,2019-12-06,64197.08,Autre,finance,0.89,1184.62,réglé,4,79,73289.89,moyen
+S01328,Carthage Cement,2022-01-15,58571.51,Dommage matériel,industrie,0.61,2797.18,réglé,3,73,58664.83,élevé
+S01329,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2021-07-02,100609.89,Dégâts des eaux,finance,0.81,1918.71,réglé,1,55,106731.18,moyen
+S01330,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2022-12-15,202758.76,Autre,technologie,0.77,5262.94,réglé,2,49,204301.25,moyen
+S01331,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2019-07-31,49509.68,Dégâts des eaux,finance,0.86,998.35,réglé,2,27,56322.62,faible
+S01332,UNION INTERNATIONALE DE BANQUES - UIB,2024-08-26,483483.05,Incendie,finance,0.83,9956.23,réglé,0,76,527819.15,moyen
+S01333,BNA Assurances,2019-01-05,38587.22,Dommage matériel,finance,0.81,660.04,rejeté,0,56,0.0,faible
+S01334,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2024-09-17,92592.0,Dommage matériel,transport,0.7,3279.68,réglé,2,71,93141.99,élevé
+S01335,ASSURANCES MAGHREBIA VIE S.A,2019-11-11,1388673.63,Incendie,finance,0.82,22367.33,réglé,0,79,1553841.49,élevé
+S01336,L’Accumulateur Tunisien ASSAD,2018-02-09,36281.21,Autre,industrie,0.64,1385.12,en cours,5,112,39539.9,élevé
+S01337,Société Nouvelle Maison de la Ville de Tunis « MONOPRIX »,2022-09-29,62551.37,Catastrophe naturelle,commerce,0.76,1771.2,réglé,2,53,67505.82,moyen
+S01338,CELLCOM,2019-09-11,800664.21,Incendie,technologie,0.72,25884.74,réglé,0,47,857274.82,moyen
+S01339,BANQUE NATIONALE AGRICOLE –BNA BANK-,2019-01-26,22419.76,Vol,finance,0.82,534.87,réglé,0,67,22516.29,faible
+S01340,Carthage Cement,2019-11-12,1444896.24,Incendie,industrie,0.7,52244.52,réglé,2,44,1649246.9,élevé
+S01341,Attijari bank,2022-03-12,35910.07,Autre,finance,0.86,751.69,en cours,0,127,39981.41,faible
+S01342,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2022-05-22,23871.98,Vol,industrie,0.65,1019.14,rejeté,5,35,0.0,élevé
+S01343,BH ASSURANCE,2023-02-27,40247.93,Responsabilité civile,finance,0.87,770.0,réglé,1,37,44097.54,faible
+S01344,Tunisie Profilés Aluminium -TPR-,2021-06-16,4543833.73,Incendie,industrie,0.69,217783.88,rejeté,2,38,0.0,élevé
+S01345,SOCIETE TUNISIENNE DE BANQUE,2021-09-24,58835.92,Responsabilité civile,finance,0.88,1036.11,en cours,2,93,59161.16,moyen
+S01346,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2023-11-05,72095.69,Dégâts des eaux,technologie,0.74,2125.44,réglé,3,52,72505.31,moyen
+S01347,الجملة لأسواق التونسيـــّـــــة,2018-02-02,71520.21,Dommage matériel,commerce,0.71,2334.06,réglé,5,73,80748.08,moyen
+S01348,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2019-12-27,2852879.34,Incendie,industrie,0.7,119906.06,réglé,3,63,3137548.42,élevé
+S01349,ALKIMIA,2021-06-05,31482.31,Vol,energie,0.61,1330.45,réglé,4,38,35684.93,élevé
+S01350,Les Industries Chimiques du Fluor,2018-01-15,82577.25,Autre,industrie,0.69,2741.49,réglé,3,55,89324.44,élevé
+S01351,Unimed,2024-02-24,1718104.76,Incendie,sante,0.76,56255.9,en cours,2,148,1941276.13,élevé
+S01352,Société de Placement et de Développement Industriel et Touristique,2020-11-12,1095647.92,Incendie,finance,0.88,24679.9,réglé,0,46,1195865.17,élevé
+S01353,Unimed,2018-12-23,138563.66,Dommage matériel,sante,0.77,3679.8,réglé,0,54,143332.41,moyen
+S01354,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2018-02-28,20390.07,Autre,transport,0.66,819.71,réglé,4,56,21596.37,élevé
+S01355,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2024-08-03,1494781.91,Catastrophe naturelle,industrie,0.65,52729.08,réglé,1,66,1532520.83,élevé
+S01356,Unimed,2023-09-08,147246.07,Catastrophe naturelle,sante,0.71,5146.66,réglé,3,16,165454.74,moyen
+S01357,BH LEASING,2020-07-25,2529123.78,Incendie,finance,0.89,48499.53,rejeté,0,18,0.0,élevé
+S01358,ASSURANCES MAGHREBIA VIE S.A,2024-07-03,158935.33,Dommage matériel,finance,0.81,2938.02,réglé,0,69,181311.95,moyen
+S01359,الجملة لأسواق التونسيـــّـــــة,2019-08-17,27999.52,Autre,commerce,0.79,921.49,réglé,0,23,28443.83,moyen
+S01360,CELLCOM,2022-11-14,105360.56,Autre,technologie,0.74,3267.61,réglé,2,66,114283.37,moyen
+S01361,Automobiles Réseau Tunisien et Services ARTES,2022-01-11,189068.38,Responsabilité civile,commerce,0.77,6746.64,réglé,5,89,198541.43,moyen
+S01362,WIFAK INTERNATIONAL BANK,2020-02-01,104586.11,Responsabilité civile,finance,0.9,2301.65,réglé,2,58,105607.76,moyen
+S01363,L’Accumulateur Tunisien ASSAD,2022-12-22,2107562.95,Interruption d'activité,industrie,0.7,99537.38,en cours,3,136,2254623.42,élevé
+S01364,Unimed,2021-08-19,30872.23,Dommage matériel,sante,0.72,1031.23,réglé,4,44,34125.0,moyen
+S01365,HANNIBAL LEASE SA,2020-11-28,807300.82,Incendie,finance,0.84,14117.64,réglé,0,75,894834.4,moyen
+S01366,TUNISIE LEASING & FACTORING,2020-09-14,31496.24,Autre,finance,0.9,736.34,réglé,0,40,35605.88,faible
+S01367,ATTIJARI LEASING,2021-11-28,2082926.74,Interruption d'activité,finance,0.87,36773.77,réglé,0,66,2139393.74,élevé
+S01368,Best Lease,2021-02-20,165797.04,Dommage matériel,finance,0.89,3164.86,réglé,1,56,180510.56,moyen
+S01369,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2021-04-26,170526.65,Catastrophe naturelle,finance,0.88,4033.32,réglé,0,60,185560.39,moyen
+S01370,Société Nouvelle Maison de la Ville de Tunis « MONOPRIX »,2021-03-02,90594.68,Dégâts des eaux,commerce,0.73,3143.69,réglé,0,42,103184.8,moyen
+S01371,TUNINVEST SICAR,2018-02-26,21882.59,Vol,finance,0.85,418.58,en cours,0,216,23014.64,faible
+S01372,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2024-07-11,16980.98,Vol,industrie,0.66,705.62,en cours,0,132,18540.98,élevé
+S01373,BH LEASING,2022-06-21,568805.71,Incendie,finance,0.89,11430.81,réglé,1,56,616818.12,moyen
+S01374,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2022-02-06,154164.91,Dommage matériel,industrie,0.6,6866.58,rejeté,4,28,0.0,élevé
+S01375,CITY CARS,2020-07-08,1907656.56,Interruption d'activité,transport,0.61,89381.81,réglé,4,65,2156949.06,élevé
+S01376,DELICE HOLDING,2023-02-11,101754.05,Dégâts des eaux,industrie,0.68,3797.76,en cours,4,104,103838.21,élevé
+S01377,Tunisie Profilés Aluminium -TPR-,2022-06-13,1612492.38,Incendie,industrie,0.62,57954.26,réglé,3,54,1728946.99,élevé
+S01378,Compagnie d’assurances et de réassurances ASTREE,2023-04-23,204583.23,Dommage matériel,finance,0.81,4162.02,réglé,0,72,229665.29,moyen
+S01379,COMPAGNIE INTERNATIONALE DE LEASING - CIL-,2019-08-31,123009.5,Dégâts des eaux,finance,0.89,2474.35,réglé,0,73,126589.09,moyen
+S01380,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2019-06-19,102613.6,Responsabilité civile,industrie,0.65,3402.19,réglé,1,67,104256.16,élevé
+S01381,Les Industries Chimiques du Fluor,2020-07-16,126292.82,Dommage matériel,industrie,0.64,4817.06,réglé,1,71,132399.42,élevé
+S01382,Tunisie Profilés Aluminium -TPR-,2018-01-27,54149.97,Dégâts des eaux,industrie,0.63,1919.74,réglé,1,78,54774.53,élevé
+S01383,Les Industries Chimiques du Fluor,2018-10-05,102347.83,Responsabilité civile,industrie,0.69,4682.06,réglé,3,60,106146.82,élevé
+S01384,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2023-08-19,139693.21,Dégâts des eaux,energie,0.61,4887.8,réglé,6,81,143057.81,élevé
+S01385,ENNAKL AUTOMOBILES,2020-02-06,308805.29,Catastrophe naturelle,transport,0.66,11243.83,réglé,4,57,314309.34,élevé
+S01386,Unimed,2018-06-15,1546282.99,Incendie,sante,0.77,39395.09,en cours,2,105,1575640.75,élevé
+S01387,Société Nouvelle Maison de la Ville de Tunis « MONOPRIX »,2020-09-05,26220.79,Vol,commerce,0.77,827.8,réglé,3,22,29491.24,moyen
+S01388,Carthage Cement,2024-03-03,57137.94,Autre,industrie,0.62,2173.9,en cours,6,136,64872.7,élevé
+S01389,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2019-12-09,42953.58,Dommage matériel,industrie,0.67,1587.49,rejeté,5,29,0.0,élevé
+S01390,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2020-06-24,294539.87,Catastrophe naturelle,finance,0.83,6047.32,en cours,0,118,315850.67,moyen
+S01391,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2020-12-21,56052.3,Dommage matériel,transport,0.7,2378.59,réglé,0,42,58366.97,élevé
+S01392,BH LEASING,2024-08-09,191166.14,Dégâts des eaux,finance,0.84,4316.78,réglé,2,64,219421.08,moyen
+S01393,الجملة لأسواق التونسيـــّـــــة,2021-06-03,66351.38,Dégâts des eaux,commerce,0.72,2047.74,réglé,3,72,69925.79,moyen
+S01394,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2019-03-28,43480.01,Autre,industrie,0.61,1712.19,réglé,1,53,45544.73,élevé
+S01395,SMART TUNISIE.SA,2023-10-27,181228.91,Catastrophe naturelle,technologie,0.71,4436.2,réglé,3,62,203606.17,moyen
+S01396,BANQUE INTERNATIONALE ARABE DE TUNISIE,2024-01-14,403467.49,Catastrophe naturelle,finance,0.82,7760.16,réglé,0,70,428076.42,moyen
+S01397,OFFICE PLAST S.A,2021-12-02,86145.71,Bris de machine,industrie,0.63,3651.76,réglé,5,76,94360.76,élevé
+S01398,ESSOUKNA,2019-07-29,29931.44,Autre,construction,0.67,1024.69,en cours,5,86,31506.04,élevé
+S01399,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2021-08-27,100080.22,Dégâts des eaux,industrie,0.69,3217.64,en cours,4,112,110870.83,élevé
+S01400,BANQUE NATIONALE AGRICOLE –BNA BANK-,2023-12-02,121583.08,Dégâts des eaux,finance,0.86,2413.64,réglé,2,73,135450.18,moyen
+S01401,ALKIMIA,2024-12-06,350105.75,Incendie,energie,0.66,12190.87,réglé,1,63,371790.7,élevé
+S01402,الجملة لأسواق التونسيـــّـــــة,2021-10-23,151506.47,Dégâts des eaux,commerce,0.71,3852.77,réglé,6,50,172088.41,moyen
+S01403,WIFAK INTERNATIONAL BANK,2024-08-31,104007.8,Dommage matériel,finance,0.85,1980.0,en cours,1,85,117552.81,moyen
+S01404,OFFICE PLAST S.A,2024-03-01,1026911.06,Incendie,industrie,0.67,36088.2,réglé,1,55,1062157.91,élevé
+S01405,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2024-11-23,137670.86,Dommage matériel,industrie,0.68,6217.44,en cours,5,72,146126.24,élevé
+S01406,SOCIETE D’ARTICLES HYGIENIQUES « SAH »,2023-07-17,1141766.26,Incendie,industrie,0.68,44830.17,en cours,4,142,1312925.46,élevé
+S01407,ALKIMIA,2019-12-08,1586555.87,Interruption d'activité,energie,0.67,56188.94,réglé,0,47,1672633.73,élevé
+S01408,TUNISIE LEASING & FACTORING,2022-02-23,122167.85,Responsabilité civile,finance,0.9,2758.58,réglé,0,56,130575.64,moyen
+S01409,WIFAK INTERNATIONAL BANK,2023-04-29,78358.41,Dégâts des eaux,finance,0.87,1313.29,réglé,2,60,85750.91,moyen
+S01410,Société Moderne de Céramique -SOMOCER-,2023-09-25,259570.65,Catastrophe naturelle,industrie,0.61,10372.8,réglé,1,49,269947.43,élevé
+S01411,PLACEMENTS DE TUNISIE SICAF,2023-10-01,1396513.57,Incendie,finance,0.87,25720.83,en cours,0,102,1603733.96,élevé
+S01412,ASSURANCES MAGHREBIA S.A,2024-11-24,91687.28,Bris de machine,finance,0.85,1677.76,réglé,0,58,98455.9,moyen
+S01413,ASSURANCES MAGHREBIA S.A,2022-09-22,120366.35,Dégâts des eaux,finance,0.84,2859.27,réglé,3,72,132565.37,moyen
+S01414,ENNAKL AUTOMOBILES,2020-08-15,71427.0,Autre,transport,0.62,3379.08,en cours,2,132,78033.97,élevé
+S01415,Carthage Cement,2021-06-08,19292.82,Vol,industrie,0.68,799.75,réglé,4,37,19559.29,élevé
+S01416,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2018-09-13,44070.13,Dommage matériel,finance,0.88,866.56,réglé,0,62,45586.96,faible
+S01417,Amen Bank,2018-01-01,56561.93,Dommage matériel,finance,0.89,1298.93,réglé,2,50,64896.73,moyen
+S01418,Carthage Cement,2024-06-28,99609.03,Dégâts des eaux,industrie,0.61,4616.38,en cours,3,122,110679.14,élevé
+S01419,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2018-12-28,115970.02,Responsabilité civile,industrie,0.69,5157.86,réglé,1,55,127083.25,élevé
+S01420,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2020-08-09,25449.42,Vol,transport,0.62,942.28,réglé,4,71,27581.64,élevé
+S01421,CELLCOM,2019-08-09,72140.47,Bris de machine,technologie,0.8,1789.58,réglé,3,30,80769.61,moyen
+S01422,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2024-07-26,2449424.55,Incendie,industrie,0.63,99407.74,réglé,5,25,2688653.97,élevé
+S01423,BH BANK,2024-02-07,1699142.06,Interruption d'activité,finance,0.85,33214.38,réglé,1,47,1865468.34,élevé
+S01424,L’Accumulateur Tunisien ASSAD,2018-08-12,45414.55,Dommage matériel,industrie,0.6,1492.75,réglé,3,58,49408.81,élevé
+S01425,Unimed,2021-12-19,23392.06,Vol,sante,0.8,567.27,réglé,2,50,23834.57,moyen
+S01426,Automobiles Réseau Tunisien et Services ARTES,2023-04-19,2222372.18,Interruption d'activité,commerce,0.79,75615.63,réglé,3,53,2514322.21,élevé
+S01427,Société de Placement et de Développement Industriel et Touristique,2024-04-24,3142806.86,Incendie,finance,0.81,65492.74,réglé,0,51,3263277.32,élevé
+S01428,BNA Assurances,2023-07-23,960838.16,Incendie,finance,0.83,15723.48,réglé,1,50,1068036.92,moyen
+S01429,TUNISIE LEASING & FACTORING,2018-08-08,151044.56,Dommage matériel,finance,0.83,2747.16,réglé,2,89,166314.49,moyen
+S01430,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2021-05-30,23530.62,Vol,transport,0.68,764.21,en cours,2,148,25864.75,élevé
+S01431,Carthage Cement,2023-06-06,96543.52,Dégâts des eaux,industrie,0.67,4552.9,en cours,2,121,96752.69,élevé
+S01432,Carthage Cement,2020-08-04,42980.15,Autre,industrie,0.62,1614.17,en cours,5,112,45885.91,élevé
+S01433,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2024-06-24,1144031.26,Incendie,industrie,0.68,54357.86,réglé,2,50,1260288.11,élevé
+S01434,HANNIBAL LEASE SA,2019-04-11,1441911.38,Incendie,finance,0.81,33426.31,réglé,0,72,1550035.48,élevé
+S01435,Société de Placement et de Développement Industriel et Touristique,2019-09-02,425904.31,Catastrophe naturelle,finance,0.84,9963.36,réglé,2,69,483264.99,moyen
+S01436,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2021-07-28,103458.5,Dommage matériel,energie,0.66,4183.25,en cours,3,134,104265.8,élevé
+S01437,CITY CARS,2023-06-22,121532.25,Responsabilité civile,transport,0.61,5483.17,réglé,4,51,125933.13,élevé
+S01438,الجملة لأسواق التونسيـــّـــــة,2024-11-26,5171856.66,Interruption d'activité,commerce,0.74,130229.81,réglé,1,60,5546679.13,élevé
+S01439,Unimed,2018-09-22,161652.8,Dommage matériel,sante,0.77,5635.94,réglé,4,55,184297.49,moyen
+S01440,BH BANK,2022-11-03,48363.83,Autre,finance,0.9,1010.1,réglé,3,78,55295.75,faible
+S01441,NEW BODY LINE,2020-03-10,68819.54,Autre,commerce,0.75,2293.19,réglé,4,48,76178.4,moyen
+S01442,NEW BODY LINE,2020-07-26,40981.94,Autre,commerce,0.76,1186.03,réglé,2,40,44587.74,moyen
+S01443,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2021-09-22,49963.05,Autre,transport,0.62,1712.14,réglé,2,65,56675.52,élevé
+S01444,Les Industries Chimiques du Fluor,2020-03-15,45550.27,Autre,industrie,0.62,1568.62,réglé,3,66,50864.97,élevé
+S01445,BH ASSURANCE,2021-08-26,95374.92,Responsabilité civile,finance,0.83,2020.77,rejeté,0,46,0.0,moyen
+S01446,Carthage Cement,2018-08-28,698412.66,Incendie,industrie,0.69,27564.5,en cours,3,99,776397.05,élevé
+S01447,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2020-12-20,127150.5,Dégâts des eaux,finance,0.9,2455.69,réglé,0,31,137156.5,moyen
+S01448,SMART TUNISIE.SA,2019-10-20,44332.64,Bris de machine,technologie,0.73,1529.76,réglé,3,48,50804.06,moyen
+S01449,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2019-05-04,50228.83,Autre,industrie,0.61,2281.76,réglé,3,53,53916.74,élevé
+S01450,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2023-09-03,58441.17,Bris de machine,industrie,0.68,2075.6,réglé,3,45,62691.75,élevé
+S01451,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2020-05-29,939594.51,Incendie,industrie,0.68,43637.6,réglé,4,39,1061477.37,élevé
+S01452,SOCIETE TUNISIENNE DE REASSURANCE- TUNIS RE,2021-12-17,4237891.74,Interruption d'activité,finance,0.88,93661.4,réglé,0,76,4617099.98,élevé
+S01453,WIFAK INTERNATIONAL BANK,2020-01-31,173510.39,Bris de machine,finance,0.89,3449.07,en cours,1,107,188792.48,moyen
+S01454,TUNISIE LEASING & FACTORING,2022-04-20,95118.48,Dégâts des eaux,finance,0.86,1566.62,en cours,0,132,96487.8,moyen
+S01455,CITY CARS,2018-02-11,2810570.49,Interruption d'activité,transport,0.64,122440.14,réglé,1,50,3141070.57,élevé
+S01456,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2022-07-28,339128.05,Dommage matériel,energie,0.69,13798.9,réglé,2,64,347306.87,élevé
+S01457,BH BANK,2024-12-18,250233.41,Responsabilité civile,finance,0.89,4678.19,réglé,3,44,281554.9,moyen
+S01458,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2019-06-13,1424942.24,Incendie,finance,0.88,27587.32,réglé,0,47,1576504.72,élevé
+S01459,PLACEMENTS DE TUNISIE SICAF,2022-07-23,135866.37,Dommage matériel,finance,0.8,2415.55,réglé,1,67,144311.66,moyen
+S01460,BH LEASING,2022-10-13,71632.57,Dégâts des eaux,finance,0.8,1276.46,réglé,0,48,76962.27,moyen
+S01461,Société Tunisienne d’Email -SOTEMAIL-,2018-02-19,11374.22,Vol,industrie,0.6,439.99,en cours,1,163,11605.82,élevé
+S01462,Euro Cycles,2019-09-16,2229029.97,Interruption d'activité,industrie,0.63,92040.69,réglé,7,43,2500622.17,élevé
+S01463,HANNIBAL LEASE SA,2018-01-20,41852.53,Autre,finance,0.81,811.74,réglé,0,45,42594.96,faible
+S01464,BANQUE INTERNATIONALE ARABE DE TUNISIE,2022-11-20,48109.24,Dégâts des eaux,finance,0.89,917.33,réglé,1,72,50500.04,faible
+S01465,ESSOUKNA,2018-09-09,15834.05,Vol,construction,0.68,575.75,réglé,8,79,16705.02,élevé
+S01466,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2023-03-04,47934.15,Vol,industrie,0.65,2076.24,en cours,1,106,55066.92,élevé
+S01467,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2020-12-09,80043.56,Autre,finance,0.84,1742.76,réglé,2,50,85646.79,moyen
+S01468,TUNINVEST SICAR,2020-05-13,80392.1,Dommage matériel,finance,0.85,1848.15,rejeté,4,8,0.0,moyen
+S01469,ENNAKL AUTOMOBILES,2018-04-13,13158.77,Vol,transport,0.64,611.07,en cours,3,144,13313.16,élevé
+S01470,BANQUE INTERNATIONALE ARABE DE TUNISIE,2020-02-24,59624.6,Dégâts des eaux,finance,0.83,956.58,réglé,0,67,65250.41,moyen
+S01471,الجملة لأسواق التونسيـــّـــــة,2019-10-22,46765.45,Bris de machine,commerce,0.75,1421.45,réglé,4,61,52492.34,moyen
+S01472,Les Industries Chimiques du Fluor,2019-06-26,15919.38,Vol,industrie,0.65,656.88,rejeté,1,28,0.0,élevé
+S01473,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2021-09-07,158904.58,Responsabilité civile,industrie,0.62,5526.91,réglé,2,67,174281.83,élevé
+S01474,BNA Assurances,2019-03-19,359736.64,Catastrophe naturelle,finance,0.88,7464.65,réglé,3,60,399055.28,moyen
+S01475,ALKIMIA,2018-08-27,27022.13,Autre,energie,0.61,933.43,réglé,4,30,29597.6,élevé
+S01476,Amen Bank,2022-05-01,1449579.29,Catastrophe naturelle,finance,0.87,26536.21,en cours,3,156,1524165.51,élevé
+S01477,BH ASSURANCE,2018-07-29,111289.69,Responsabilité civile,finance,0.89,2206.04,rejeté,2,35,0.0,moyen
+S01478,L’Accumulateur Tunisien ASSAD,2020-05-25,73208.29,Bris de machine,industrie,0.63,2686.14,réglé,3,56,83294.1,élevé
+S01479,MANUFACTURE DE PANNEAUX BOIS DU SUD – MPBS,2021-07-23,120157.27,Bris de machine,industrie,0.69,4335.51,réglé,3,55,136183.94,élevé
+S01480,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2021-10-09,565295.73,Responsabilité civile,finance,0.86,10295.2,réglé,3,36,645525.78,moyen
+S01481,SOCIETE D’ARTICLES HYGIENIQUES « SAH »,2021-05-12,54236.52,Bris de machine,industrie,0.63,2163.22,réglé,6,69,54992.46,élevé
+S01482,WIFAK INTERNATIONAL BANK,2024-01-09,72871.27,Autre,finance,0.83,1493.26,réglé,2,57,72928.33,moyen
+S01483,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2024-04-02,119441.84,Responsabilité civile,industrie,0.68,4861.44,rejeté,2,23,0.0,élevé
+S01484,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2022-02-09,2014435.28,Interruption d'activité,technologie,0.72,69562.16,réglé,3,63,2045097.18,élevé
+S01485,Les Industries Chimiques du Fluor,2022-07-10,134238.1,Dommage matériel,industrie,0.63,6158.24,en cours,1,96,149307.76,élevé
+S01486,Automobiles Réseau Tunisien et Services ARTES,2022-09-20,35988.36,Vol,commerce,0.79,907.97,rejeté,5,9,0.0,moyen
+S01487,Automobiles Réseau Tunisien et Services ARTES,2019-09-28,55395.97,Dégâts des eaux,commerce,0.76,1977.83,réglé,5,53,61229.5,moyen
+S01488,NEW BODY LINE,2020-10-22,37641.03,Dégâts des eaux,commerce,0.72,1153.2,réglé,1,62,40504.21,moyen
+S01489,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2018-12-30,1977965.55,Interruption d'activité,industrie,0.69,67606.11,en cours,1,77,2225877.29,élevé
+S01490,NEW BODY LINE,2018-06-02,136648.75,Dommage matériel,commerce,0.7,4290.82,réglé,4,58,146727.87,moyen
+S01491,BNA Assurances,2021-04-12,110320.29,Dégâts des eaux,finance,0.85,2063.51,en cours,0,113,114651.62,moyen
+S01492,OFFICE PLAST S.A,2021-07-19,55982.68,Autre,industrie,0.64,1802.47,réglé,3,51,60615.07,élevé
+S01493,WIFAK INTERNATIONAL BANK,2022-03-25,67300.5,Autre,finance,0.81,1239.11,réglé,1,61,67446.64,moyen
+S01494,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2023-01-01,208073.41,Dommage matériel,industrie,0.69,9962.19,réglé,2,55,216105.66,élevé
+S01495,AIR LIQUIDE TUNISIE,2022-11-28,236184.55,Catastrophe naturelle,industrie,0.68,10831.08,en cours,1,89,250909.61,élevé
+S01496,BANQUE NATIONALE AGRICOLE –BNA BANK-,2022-08-05,22985.16,Autre,finance,0.82,506.36,réglé,3,51,24382.91,faible
+S01497,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2021-09-24,371639.61,Responsabilité civile,finance,0.84,7250.59,réglé,2,38,391306.95,moyen
+S01498,SMART TUNISIE.SA,2022-07-18,25649.26,Autre,technologie,0.73,903.72,réglé,1,82,28580.5,moyen
+S01499,TUNISIE LEASING & FACTORING,2022-01-29,93046.11,Bris de machine,finance,0.86,1898.97,réglé,0,63,95672.75,moyen
+S01500,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2022-07-16,93829.32,Dommage matériel,industrie,0.66,4376.91,réglé,1,52,107754.04,élevé
+S01501,NEW BODY LINE,2021-09-14,198281.44,Dommage matériel,commerce,0.75,5745.48,en cours,3,143,204142.93,moyen
+S01502,BH LEASING,2021-12-07,19610.12,Vol,finance,0.85,461.22,rejeté,4,21,0.0,faible
+S01503,ESSOUKNA,2022-02-14,96465.83,Catastrophe naturelle,construction,0.68,3684.81,réglé,3,47,106883.31,élevé
+S01504,ASSURANCES MAGHREBIA VIE S.A,2020-09-21,1309953.57,Incendie,finance,0.8,25196.98,en cours,0,109,1399233.52,élevé
+S01505,COMPAGNIE INTERNATIONALE DE LEASING - CIL-,2021-12-09,675566.14,Responsabilité civile,finance,0.83,15005.12,rejeté,5,27,0.0,moyen
+S01506,"Société Tunisienne d'Assurances et de Réassurances    ""STAR""",2019-02-07,63981.1,Dommage matériel,finance,0.89,1314.44,en cours,0,128,71401.03,moyen
+S01507,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2018-12-15,57728.33,Autre,energie,0.65,2534.02,réglé,1,78,66329.48,élevé
+S01508,SOCIETE DE FABRICATION DES BOISSONS DE TUNISIE,2024-12-01,83467.46,Autre,industrie,0.64,2829.43,réglé,5,78,94614.78,élevé
+S01509,BANQUE NATIONALE AGRICOLE –BNA BANK-,2020-09-02,119127.66,Dommage matériel,finance,0.86,2542.85,réglé,0,34,124338.61,moyen
+S01510,BH ASSURANCE,2018-04-09,5096280.81,Incendie,finance,0.83,96744.21,en cours,1,137,5132039.73,élevé
+S01511,Les Industries Chimiques du Fluor,2023-06-04,53773.3,Autre,industrie,0.61,2439.31,réglé,5,57,58952.02,élevé
+S01512,Euro Cycles,2021-01-21,388923.17,Catastrophe naturelle,industrie,0.67,12917.27,réglé,4,55,391053.85,élevé
+S01513,UNION INTERNATIONALE DE BANQUES - UIB,2023-01-23,13795.68,Vol,finance,0.81,279.21,en cours,1,147,15390.9,faible
+S01514,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2020-08-01,28859.07,Autre,industrie,0.61,1300.7,réglé,2,50,29801.23,élevé
+S01515,ATTIJARI LEASING,2023-10-02,25206.66,Vol,finance,0.9,588.32,réglé,1,47,28656.54,faible
+S01516,Tunisie Profilés Aluminium -TPR-,2018-09-09,107428.59,Autre,industrie,0.66,4705.14,réglé,3,68,115318.54,élevé
+S01517,SOCIETE D’ARTICLES HYGIENIQUES « SAH »,2022-10-02,38808.81,Dégâts des eaux,industrie,0.64,1348.94,réglé,4,58,44620.72,élevé
+S01518,COMPAGNIE INTERNATIONALE DE LEASING - CIL-,2022-05-25,49552.2,Vol,finance,0.86,1162.98,réglé,1,59,55506.05,faible
+S01519,ASSURANCES MAGHREBIA VIE S.A,2022-01-11,73306.26,Dommage matériel,finance,0.88,1383.18,réglé,1,46,79981.52,moyen
+S01520,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2024-01-06,34331.26,Vol,industrie,0.67,1158.69,en cours,2,123,38994.68,élevé
+S01521,Compagnie d’assurances et de réassurances ASTREE,2024-02-04,124296.56,Responsabilité civile,finance,0.84,2911.02,réglé,1,59,129640.65,moyen
+S01522,BH BANK,2021-06-24,35483.8,Bris de machine,finance,0.83,781.3,réglé,3,39,40182.7,faible
+S01523,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2020-01-04,92672.63,Responsabilité civile,industrie,0.66,3845.99,réglé,2,85,99127.51,élevé
+S01524,OFFICE PLAST S.A,2023-03-22,774256.12,Catastrophe naturelle,industrie,0.62,37037.17,en cours,5,104,862961.68,élevé
+S01525,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2018-03-16,1994056.04,Incendie,energie,0.64,82690.62,réglé,5,84,2149191.93,élevé
+S01526,SOCIETE TUNISIENNE DE VERRERIES -SOTUVER,2019-12-27,123839.29,Responsabilité civile,industrie,0.67,4648.35,en cours,5,166,141533.96,élevé
+S01527,ASSURANCES MAGHREBIA S.A,2018-04-22,41920.26,Vol,finance,0.88,698.42,réglé,0,37,44236.2,faible
+S01528,Carthage Cement,2019-04-02,1228045.47,Incendie,industrie,0.7,58131.89,en cours,2,158,1352541.23,élevé
+S01529,Compagnie d’assurances et de réassurances ASTREE,2024-10-30,100830.26,Dommage matériel,finance,0.81,1713.57,réglé,0,81,115902.26,moyen
+S01530,WIFAK INTERNATIONAL BANK,2020-07-23,128609.71,Bris de machine,finance,0.82,2888.68,réglé,1,59,145953.37,moyen
+S01531,ENNAKL AUTOMOBILES,2018-02-07,158848.74,Catastrophe naturelle,transport,0.61,6827.16,réglé,2,81,176315.15,élevé
+S01532,ATTIJARI LEASING,2023-08-22,1600232.83,Interruption d'activité,finance,0.83,38050.07,réglé,1,64,1698501.61,élevé
+S01533,UNION INTERNATIONALE DE BANQUES - UIB,2019-03-12,1074760.66,Incendie,finance,0.89,19583.76,réglé,1,48,1195783.59,élevé
+S01534,Automobiles Réseau Tunisien et Services ARTES,2023-08-23,60803.67,Autre,commerce,0.78,1610.87,réglé,2,74,64981.51,moyen
+S01535,ESSOUKNA,2024-03-21,48962.43,Dégâts des eaux,construction,0.68,1594.68,rejeté,1,30,0.0,élevé
+S01536,L’Accumulateur Tunisien ASSAD,2022-06-18,51353.79,Dommage matériel,industrie,0.63,1676.04,réglé,1,58,51455.91,élevé
+S01537,TUNINVEST SICAR,2019-08-08,100504.84,Autre,finance,0.9,1686.38,en cours,0,130,103828.61,moyen
+S01538,ATTIJARI LEASING,2024-11-27,115547.98,Dommage matériel,finance,0.87,2131.49,réglé,0,58,123422.53,moyen
+S01539,AIR LIQUIDE TUNISIE,2024-02-19,71006.76,Dégâts des eaux,industrie,0.67,2427.6,réglé,4,59,80699.1,élevé
+S01540,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2022-01-03,118772.43,Dégâts des eaux,industrie,0.7,5285.77,en cours,2,95,123842.53,élevé
+S01541,Tunisie Profilés Aluminium -TPR-,2022-12-11,3992925.35,Interruption d'activité,industrie,0.6,190926.12,réglé,2,61,4463004.57,élevé
+S01542,UNION INTERNATIONALE DE BANQUES - UIB,2018-08-16,84586.47,Dommage matériel,finance,0.84,1567.14,rejeté,2,25,0.0,moyen
+S01543,Société de Placement et de Développement Industriel et Touristique,2018-12-07,49520.66,Autre,finance,0.86,1031.39,rejeté,2,38,0.0,faible
+S01544,LES CIMENTS DE BIZERTE,2020-01-18,266686.09,Catastrophe naturelle,industrie,0.67,9235.77,réglé,5,66,299537.83,élevé
+S01545,BH LEASING,2022-04-25,149074.55,Dommage matériel,finance,0.88,3549.84,réglé,1,70,167247.63,moyen
+S01546,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2023-03-07,93713.71,Dégâts des eaux,industrie,0.66,4426.32,réglé,1,49,93980.42,élevé
+S01547,WIFAK INTERNATIONAL BANK,2020-07-16,48468.7,Bris de machine,finance,0.88,1138.42,réglé,2,45,55507.71,faible
+S01548,BH ASSURANCE,2018-04-03,121405.96,Autre,finance,0.81,1942.88,en cours,1,136,126256.41,moyen
+S01549,ASSURANCES MAGHREBIA S.A,2021-10-28,54981.2,Responsabilité civile,finance,0.8,1238.23,en cours,0,104,63161.96,moyen
+S01550,CITY CARS,2023-01-02,1163805.43,Incendie,transport,0.66,55523.28,réglé,3,51,1323163.7,élevé
+S01551,Société Tunisienne d’Email -SOTEMAIL-,2024-08-23,565453.65,Catastrophe naturelle,industrie,0.62,26703.4,réglé,3,67,586021.61,élevé
+S01552,SOCIETE TUNISIENNE DES INDUSTRIES DE PNEUMATIQUES,2024-12-16,87386.93,Dégâts des eaux,industrie,0.67,3166.89,réglé,5,49,95796.49,élevé
+S01553,CELLCOM,2018-04-26,49159.11,Dommage matériel,technologie,0.73,1665.1,réglé,2,37,56494.19,moyen
+S01554,ESSOUKNA,2020-03-15,53216.0,Autre,construction,0.66,1733.13,réglé,5,60,54935.07,élevé
+S01555,Société Tunisienne Industrielle du Papier et du Carton (SOTIPAPIER),2021-10-17,96879.7,Autre,industrie,0.62,3407.18,réglé,3,40,99234.51,élevé
+S01556,Euro Cycles,2018-03-06,38880.79,Dommage matériel,industrie,0.62,1344.26,réglé,3,71,44286.86,élevé
+S01557,ASSURANCES MAGHREBIA S.A,2020-08-20,7111.63,Vol,finance,0.87,158.99,en cours,1,133,7847.58,faible
+S01558,Attijari bank,2021-10-15,61891.58,Dommage matériel,finance,0.85,1276.59,réglé,0,62,69264.88,moyen
+S01559,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2023-10-16,2069991.58,Interruption d'activité,technologie,0.74,65344.9,en cours,0,126,2164316.75,élevé
+S01560,LES CIMENTS DE BIZERTE,2021-09-14,11930.64,Vol,industrie,0.7,427.59,en cours,1,131,12546.04,élevé
+S01561,L’Accumulateur Tunisien ASSAD,2021-10-05,65987.41,Dégâts des eaux,industrie,0.67,2981.83,réglé,4,28,74220.16,élevé
+S01562,SMART TUNISIE.SA,2019-12-07,26511.43,Autre,technologie,0.73,844.47,réglé,1,61,30158.61,moyen
+S01563,NEW BODY LINE,2021-11-26,38736.6,Autre,commerce,0.75,1127.73,réglé,4,67,43461.88,moyen
+S01564,BH LEASING,2023-09-18,1533524.5,Incendie,finance,0.84,31825.6,réglé,1,64,1570117.43,élevé
+S01565,BH LEASING,2018-01-12,26678.61,Autre,finance,0.89,432.83,réglé,1,37,29504.03,faible
+S01566,WIFAK INTERNATIONAL BANK,2020-04-01,76817.17,Dégâts des eaux,finance,0.83,1581.33,en cours,4,110,84095.04,moyen
+S01567,SMART TUNISIE.SA,2022-01-27,365891.08,Catastrophe naturelle,technologie,0.72,9570.47,réglé,2,42,397851.34,moyen
+S01568,L’Accumulateur Tunisien ASSAD,2020-01-12,179770.99,Dégâts des eaux,industrie,0.63,8032.01,réglé,3,60,204767.0,élevé
+S01569,Les Industries Chimiques du Fluor,2018-11-04,70315.0,Dommage matériel,industrie,0.69,3144.78,réglé,4,54,80786.26,élevé
+S01570,DELICE HOLDING,2018-05-04,8092.94,Vol,industrie,0.69,380.12,réglé,3,50,9012.86,élevé
+S01571,SOCIETE TUNISIENNE DE BANQUE,2020-05-07,11039.76,Vol,finance,0.89,221.63,réglé,2,42,12459.11,faible
+S01572,DELICE HOLDING,2024-05-12,31967.92,Dommage matériel,industrie,0.64,1495.26,réglé,4,50,35225.68,élevé
+S01573,PLACEMENTS DE TUNISIE SICAF,2021-04-03,76947.35,Autre,finance,0.86,1567.16,réglé,1,58,87418.61,moyen
+S01574,Tunisie Profilés Aluminium -TPR-,2024-05-22,63463.37,Dégâts des eaux,industrie,0.61,2985.84,réglé,5,76,68515.0,élevé
+S01575,Société de Placement et de Développement Industriel et Touristique,2021-05-07,250071.69,Catastrophe naturelle,finance,0.82,4867.67,réglé,0,70,283474.19,moyen
+S01576,LES CIMENTS DE BIZERTE,2022-11-30,27773.66,Vol,industrie,0.68,1333.06,réglé,2,72,30356.02,élevé
+S01577,Attijari bank,2018-07-24,263062.45,Dommage matériel,finance,0.83,5794.61,réglé,2,52,273257.87,moyen
+S01578,BH ASSURANCE,2020-03-29,65480.95,Dommage matériel,finance,0.88,1489.89,en cours,0,145,66485.64,moyen
+S01579,TUNISIE LEASING & FACTORING,2024-10-19,4004986.15,Incendie,finance,0.89,93687.7,réglé,6,66,4178981.09,élevé
+S01580,Société de Transport des Hydrocarbures par Pipelines - SOTRAPIL,2024-05-13,103258.7,Dégâts des eaux,energie,0.6,4568.31,réglé,3,59,117946.57,élevé
+S01581,UNION INTERNATIONALE DE BANQUES - UIB,2022-02-11,89866.15,Dommage matériel,finance,0.84,1963.53,rejeté,1,29,0.0,moyen
+S01582,Compagnie d’assurances et de réassurances ASTREE,2020-07-29,51391.22,Dégâts des eaux,finance,0.82,839.55,réglé,1,69,55167.94,moyen
+S01583,Compagnie d’assurances et de réassurances ASTREE,2022-12-19,2638107.21,Incendie,finance,0.85,50248.12,réglé,1,63,2999311.75,élevé
+S01584,LES CIMENTS DE BIZERTE,2021-01-12,189424.58,Dommage matériel,industrie,0.62,7054.98,réglé,3,41,196913.86,élevé
+S01585,ENNAKL AUTOMOBILES,2018-12-25,97506.24,Dommage matériel,transport,0.61,3145.78,en cours,1,132,97916.99,élevé
+S01586,Amen Bank,2019-04-16,44040.32,Autre,finance,0.82,770.05,réglé,1,82,46551.96,faible
+S01587,BH BANK,2019-08-13,86223.64,Catastrophe naturelle,finance,0.81,1434.07,réglé,2,60,93714.57,moyen
+S01588,Les Industries Chimiques du Fluor,2018-01-17,85117.23,Responsabilité civile,industrie,0.63,4021.52,réglé,2,61,86603.98,élevé
+S01589,UNION BANCAIRE POUR LE COMMERCE ET L’INDUSTRIE -UBCI-,2021-01-10,1037593.0,Incendie,finance,0.87,22389.12,réglé,0,52,1141759.93,élevé
+S01590,Société Tunisienne d’Email -SOTEMAIL-,2020-04-14,387466.77,Incendie,industrie,0.67,15754.97,réglé,5,64,403744.32,élevé
+S01591,Les Industries Chimiques du Fluor,2018-11-21,4086217.26,Incendie,industrie,0.67,195564.8,réglé,3,86,4674861.72,élevé
+S01592,Société Tunisienne d’Entreprises de Télécommunications « SOTETEL »,2020-08-25,47555.82,Dégâts des eaux,technologie,0.79,1406.88,réglé,4,63,52687.13,moyen
+S01593,LES CIMENTS DE BIZERTE,2018-08-02,33533.12,Autre,industrie,0.64,1337.28,réglé,1,50,34712.2,élevé
+S01594,Société Industrielle d’Appareillage et de Matériels Electriques « SIAME »,2021-10-04,432454.86,Responsabilité civile,industrie,0.63,19604.85,réglé,4,75,436198.39,élevé
+S01595,Best Lease,2020-12-08,39747.92,Dommage matériel,finance,0.82,703.37,réglé,0,76,44089.43,faible
+S01596,SOCIETE TUNISIENNE DE L’AIR - TUNISAIR,2020-03-27,31215.63,Autre,transport,0.62,1065.45,réglé,2,49,33941.35,élevé
+S01597,WIFAK INTERNATIONAL BANK,2023-12-25,87274.06,Dommage matériel,finance,0.84,1476.56,réglé,2,83,96917.21,moyen
+S01598,Euro Cycles,2021-02-26,1832306.22,Interruption d'activité,industrie,0.64,82539.3,réglé,3,44,1947199.46,élevé
+S01599,BH BANK,2024-03-16,67082.01,Bris de machine,finance,0.82,1122.55,réglé,2,43,69950.28,moyen
+S01600,CELLCOM,2020-09-05,966499.62,Incendie,technologie,0.79,30995.65,rejeté,3,21,0.0,moyen
